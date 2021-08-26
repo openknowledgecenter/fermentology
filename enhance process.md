@@ -7,6 +7,7 @@ BEFORE PUBPUB
 
 LOGIN TO PUBPUB
 ---
+Within PubPub: 
 - Click: Create a Pub 
 - Click (+): Add to Collection
 - Select: Book
@@ -17,7 +18,7 @@ LOGIN TO PUBPUB
 - Description comes from Fermentology Mini-Seminar website (max 280 characters). Edit description to read more like a subtitle. 
 - Add Contributor → name of Mini-Seminar leader
 - Add Affiliation from Mini-Seminar Page
-- In Pub Settings: 1) add the date of Mini-Seminar Talk, 2) add a Preview Image
+- In Pub Settings: 1) add the date of Mini-Seminar Talk, 2) add a Preview Image, 3) set Text style to "Black Blocks" or "White Blocks." Click "Save changes" in the upper right hand corner of the settings page.
 
 TEXT
 ---
@@ -27,7 +28,7 @@ TEXT
 - Add "Watch the talk" (H2) - paste in Youtube talk using pubpub's media feature.
 - Add horizontal line to separate the Abstract and Video from the transcript. 
 - Copy and Paste the transcript into the pub
-- edit the text/transcript to make it less talky, more read-y without changing the gist of it (this may take approx. an hour)
+- edit the text/transcript to make it less talky, more read-y without changing the gist of it (this may take approx. an hour or two)
 - refer to the prexisting Fermentology "Enriched Talks" as models 
 - re-read the transcript 2-3 times and make edits as you go (this can be done as you work on adding images/media)
 - add bullet-points and lists as needed for clarity 
@@ -58,10 +59,16 @@ MULTIMEDIA
   * more goes here
   
 - If there is a data viz to create, check with Micah to see if DVS can work on it. 
+- If you need to create an infographic, check with Kelsey to make one or make one with [Canva](https://www.canva.com/). 
 - embed media using [Storiiies](https://storiiies.cogapp.com/), [KnightLabs tools](https://knightlab.northwestern.edu/projects/), or directly in PubPub.
 
 COMMENTARY
 ---
 - Using PubPub's features (footnotes, discussion/annotations) add a new layer of commentary to the text. This is where we can pull in other scholarly public resources, natgeo, NYT, Discovery channel, wikimedia/pedia/data, etc. etc. (this may take approx. an hour)
 - Always link back to the speakers research (papers, website) when possible
+
+REVIEW
+---
+- When text, media inclusion/enhancement, and commentary are all at a finalized point, share the pub with Kelsey and Micah to review.
+- Click "Request Publication: create a Release Review"
 ---
