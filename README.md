@@ -15,11 +15,9 @@ Digital-first, iteratively ‘published,’ work-in-progress online text/resourc
 Who does what
 ---
 * Strategist and Project Lead - Micah Vandegrift
-* Project Manager -  
+* Project Manager -  Kelsey Dufresne
 * Project Partner - Rob Dunn
-* Editor - Karen Ciccone
-* Designers - Brent Brafford (graphic) and Robin Davis (user experience)
-* Content Developers: Kelsey D., Allison K., Carrie H., Nathan W., Micah, Karen
+* Content Developers: Kelsey D., Allison K., Carrie H., Micah, Karen, Sara K., Rachel O'R.
 
 Links:
 * [Seminar Series on CALS site](https://cals.ncsu.edu/applied-ecology/news/fermentology-mini-seminars/)
