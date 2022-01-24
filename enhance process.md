@@ -31,6 +31,7 @@ TEXT
 - Add horizontal line to separate the Abstract and Video from the transcript 
 - Copy and Paste the transcript into the pub
 - edit the text/transcript to make it less talky, more read-y without changing the gist of it (this may take approx. an hour or two)
+- add paragraphs to aid in readability; aim for 3-5 sentences per paragraph and only a few paragraphs per section (name sections according to the language in the talk)
 - refer to the prexisting Fermentology "Enriched Talks" as models 
 - re-read the transcript 2-3 times and make edits as you go (this can be done as you work on adding images/media)
 - add bullet-points and lists as needed for clarity 
