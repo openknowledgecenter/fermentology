@@ -71,6 +71,23 @@ REVIEW
 - Click "Request Publication: create a Release Review"
 ---
 
+QUESTION + ANSWER
+---
+- For talks that have a question and answer included in the transcript, follow this process:
+- Make a new pub - but do not add it to a collection
+- Title: NAME OF TALK: Question & Answer
+- In the description line: AUTHOR's NAME answers questions about TALK.
+- In the Pub settings, ensure the theme is set to "White Blocks."
+- In the Pub settings under Connections, make this new pub a "Supplement" to the talk pub.
+- Include the following note in the body of the pub in italics: "Editors note: This publication contains a lightly edited transcript of the question and answer portion of the corresponding lecture." 
+- For the banner image, use either the image from the talk's pubpub or a new image
+- Regardless of image source, provide image attribution beneath the Editors note.
+- Beneath the Editors note and Image attribution, add a horizontal line via pubpub.
+- Copy and paste question and answer portion text into the pub
+- At the beginning of the text, add "Q + A:" as Header 1
+- Questions ahould be formated as Header 2 with the word "Question" bolded at the beginning. Example: "**Question:** Say you're working in a place that's really, really hot, like North Carolina. How do you manage that with your fermentation process?"  
+- Answers should have the author's first name in bold with the response following -- all in paragraph format. Example: "**Olia:** Right. So you just have to watch it."
+- Refer to other Q+A pubs as a model. 
 
 POST-PUBLICATION
 ===
